@@ -10,3 +10,7 @@ This is the code:
 
 
 4.Attachments code
+
+5.Status update code
+
+6.Last seen Hide code
